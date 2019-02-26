@@ -20,9 +20,12 @@ Education
 Publications & Manuscripts
 ======
 
-* ***Xiangsheng Li***, Yiqun Liu, Xin Li, Cheng Luo, Jian-Yun Nie, Min Zhang and Shaoping Ma Hierarchical Attention Network for Context-Aware Query Suggestion. The fourteenth Asia Information Retrieval Societies Conference (***AIRS 2018 Best Student Paper Award***). [Preprint Version](http://www.thuir.cn/group/~YQLiu/publications/AIRS2018Li.pdf).
+* ***Xiangsheng Li***, Yiqun Liu, Xin Li, Cheng Luo, Jian-Yun Nie, Min Zhang and Shaoping Ma Hierarchical Attention Network for Context-Aware Query Suggestion. The fourteenth Asia Information Retrieval Societies Conference (***AIRS 2018 Best Paper Award***). [Preprint Version](http://www.thuir.cn/group/~YQLiu/publications/AIRS2018Li.pdf).
 * ***Xiangsheng Li***, Yiqun Liu, Jiaxin Mao, Zexue He, Min Zhang, Shaoping Ma. Understanding Reading Attention Distribution during Relevance Judgement. The 27th ACM International Conference on Information and Knowledge Management (***CIKM 2018***). [Preprint Version](http://www.thuir.cn/group/~YQLiu/publications/CIKM18Li.pdf). [Datasets](http://www.thuir.cn/group/~YQLiu/datasets/CIKM18Li.zip)
 * ***Xiangsheng Li***, Cheng Luo, Yiqun Liu and Shaoping Ma. [Chinese Translation](http://www.thuir.cn/group/~YQLiu/publications/SIGIRForumSI.pdf) of SIGIR Forum 2017 [special issue](http://sigir.org/forum/issues/july-special-issue-2017/) (with the permission of orginal editors/authors).
 
 Honors & Awards
 ======
+* Nov 2018, Best Paper Award in AIRS 2018.
+* Jun 2017, Outstanding Graduates Award, Sun Yat-Sen University.
+* May 2017, Excellent Undergraduate Thesis award, Sun Yat-Sen University.
