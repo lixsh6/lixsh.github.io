@@ -8,18 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am now a third year PhD student in THUIR group, Department of Computer Science and Technology in Tsinghua University, Beijing, China. My supervisor is Prof. Yiqun Liu. My major research interests are in Web Search Evaluation and User Behavior Model.
-
-A data-driven personal website
+Recent Professional Activities
 ======
-Like 
+* I serve as PC of IJCAI 2018, SIGIR 2018, as well as ICWSM 2018 (Dec. 2017).
+* Our paper "Towards Designing Better Session Search Evaluation Metrics." with Mengyang, Jiaxin, Prof. Yiqun LIU and Prof. Shaoping MA received Best Short Paper Honorable Mention at SIGIR 2018!
 
-Getting started
+Publications
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default 
+* Qingyao Ai, Keping Bi, Cheng Luo, Jiafeng Guo and W. Bruce Croft. Unbiased Learning to Rank with Unbiased Propensity Estimation. The 41st International ACM SIGIR Conference on Research and Development in Information Retrieval. Full paper. (SIGIR 2018).
+* ***Fan Zhang***, Ke Zhou, Yunqiu Shao, Cheng Luo, Min Zhang and Shaoping Ma. How Well do Offline and Online Evaluation Metrics Measure User Satisfaction in Web Image Search? The 41st International ACM SIGIR Conference on Research and Development in Information Retrieval. Full paper. (***SIGIR 2018***).
