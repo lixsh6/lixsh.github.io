@@ -1,10 +1,5 @@
 # main links links
 main:
   - title: "Education"
-  url: /#Education
+    url: /#Education
 
-  - title: "Publications and Manuscripts"
-  url: /#Publications & Manuscripts
-
-  - title: "Honors and Awards"
-  url: /#Honors & Awards
