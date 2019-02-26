@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xiangsheng Li"
 title_separator          : "-"
 name                     : &name "Xiangsheng Li"
-description              : &description "PhD student at Tsinghua University"
+description              : &description "Ph.D. student at Tsinghua University"
 url                      : https://lixsh6.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lixsh6/lixsh6.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xiangsheng Li"
   avatar           : "lixsh6.png"
-  bio              : "PhD student at Tsinghua University"
+  bio              : "Ph.D. student at Tsinghua University"
   location         : "Beijing, China"
   employer         :
   googlescholar    : "https://scholar.google.com.hk/citations?user=HEs1o4MAAAAJ&hl=en"
