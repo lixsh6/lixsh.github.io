@@ -26,6 +26,6 @@ Publications & Manuscripts
 
 Honors & Awards
 ======
-* Nov 2018, Best Paper Award in AIRS 2018.
-* Jun 2017, Outstanding Graduates Award, Sun Yat-Sen University.
-* May 2017, Excellent Undergraduate Thesis award, Sun Yat-Sen University.
+* Nov 2018, ***Best Paper Award*** in AIRS 2018.
+* Jun 2017, ***Outstanding Graduates Award***, Sun Yat-Sen University.
+* May 2017, ***Excellent Undergraduate Thesis award***, Sun Yat-Sen University.
