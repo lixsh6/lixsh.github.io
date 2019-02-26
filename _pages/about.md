@@ -14,7 +14,7 @@ I am now a second year Ph.D. student in [THUIR group](http://www.thuir.cn/), [De
 Education
 ======
 * ***2017-present***, Ph.D. student, [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn), Tsinghua University.\\ Advisor: Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/)
-* ***2013-2017***, B.Eng., [School of Data and Computer Science](http://sdcs.sysu.edu.cn), Sun Yat-Sen University.
+* ***2013-2017***, Undergraduate, [School of Data and Computer Science](http://sdcs.sysu.edu.cn), Sun Yat-Sen University.
 
 
 Publications & Manuscripts
