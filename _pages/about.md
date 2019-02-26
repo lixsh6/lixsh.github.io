@@ -20,7 +20,7 @@ Education
 Publications & Manuscripts
 ======
 
-* ***Xiangsheng Li***, Yiqun Liu, Xin Li, Cheng Luo, Jian-Yun Nie, Min Zhang and Shaoping Ma Hierarchical Attention Network for Context-Aware Query Suggestion. The fourteenth Asia Information Retrieval Societies Conference (***AIRS 2018***). [Preprint Version](http://www.thuir.cn/group/~YQLiu/publications/AIRS2018Li.pdf).
+* ***Xiangsheng Li***, Yiqun Liu, Xin Li, Cheng Luo, Jian-Yun Nie, Min Zhang and Shaoping Ma Hierarchical Attention Network for Context-Aware Query Suggestion. The fourteenth Asia Information Retrieval Societies Conference (***AIRS 2018 Best Student Paper Award***). [Preprint Version](http://www.thuir.cn/group/~YQLiu/publications/AIRS2018Li.pdf).
 
 * ***Xiangsheng Li***, Yiqun Liu, Jiaxin Mao, Zexue He, Min Zhang, Shaoping Ma. Understanding Reading Attention Distribution during Relevance Judgement. The 27th ACM International Conference on Information and Knowledge Management (***CIKM 2018***). [Preprint Version](http://www.thuir.cn/group/~YQLiu/publications/CIKM18Li.pdf). [Datasets](http://www.thuir.cn/group/~YQLiu/datasets/CIKM18Li.zip)
 
