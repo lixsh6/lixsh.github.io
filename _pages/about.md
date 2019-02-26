@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me: Xiangsheng (李祥圣)"
+title: "About Me: Xiangsheng Li(李祥圣)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
