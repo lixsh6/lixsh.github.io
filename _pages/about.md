@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am now a second year Ph.D. student in [THUIR group](http://www.thuir.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn) in Tsinghua University, Beijing, China. My advisor is Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). Prior to joining THUIR, I obtained my B.Eng. degree from School of Data and Computer Science, Sun Yat-Sen University in 2017. My major research interests are in user behavior analysis, human inspired model and search ranking.
+I am now a second year Ph.D. student in [THUIR group](http://www.thuir.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn) in Tsinghua University, Beijing, China. My advisor is Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). Prior to joining THUIR, I obtained my B.Eng. degree from [School of Data and Computer Science](http://sdcs.sysu.edu.cn), Sun Yat-Sen University in 2017. My major research interests are in user behavior analysis, human inspired model and search ranking.
 
 
 Education
 ======
 * ***2017-present***, Ph.D. student, [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn), Tsinghua University. Advisor: Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/)
-* ***2013-2017***, Undergraduate, [School of Data and Computer Science](http://sdcs.sysu.edu.cn), Sun Yat-Sen University.
+* ***2013-2017***, B.Eng., [School of Data and Computer Science](http://sdcs.sysu.edu.cn), Sun Yat-Sen University.
 
 
 Publications & Manuscripts
