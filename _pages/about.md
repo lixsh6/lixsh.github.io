@@ -36,6 +36,7 @@ Publications & Manuscripts
 
 Honors & Awards
 ======
+* Nov 2019, ***National Post-graduate Scholarship***, Department of Computer Science and Technology, Tsinghua university.
 * Nov 2018, ***Best Paper Award*** in AIRS 2018.
 * Jun 2017, ***Outstanding Graduates Award***, Sun Yat-Sen University.
 * May 2017, ***Excellent Undergraduate Thesis Award***, Sun Yat-Sen University.
