@@ -37,4 +37,8 @@ Honors & Awards
 * Jun 2017, ***Outstanding Graduates Award***, Sun Yat-Sen University.
 * May 2017, ***Excellent Undergraduate Thesis Award***, Sun Yat-Sen University.
 
+Experiences
+======
+* ***Oct. 2019 - Apr. 2020***. Visiting PhD student, Information and Language Processing Systems group, University of Amsterdam, Netherlands.
+
 
