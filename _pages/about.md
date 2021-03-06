@@ -20,6 +20,7 @@ Education
 Publications & Manuscripts
 ======
 
+* ***Xiangsheng Li***, Jiaxin Mao, Weizhi Ma, ***Yiqun Liu***, Min Zhang, Shaoping Ma, Zhaowei Wang and Xiuqiang He. Topic-enhanced knowledge-aware retrieval model for diverse relevance estimation. The Web Conference 2021. (**theWebConf 2021**). [Preprint Version](http://www.thuir.cn/group/~YQLiu/publications/WWW2021Li.pdf). [Code](https://github.com/lixsh6/TEKM-ranker)
 * ***Xiangsheng Li***, Maarten de Rijke, Yiqun Liu, Jiaxin Mao, Weizhi Ma, Min Zhang, Shaoping Ma. Learning Better Representations for Neural Information Retrieval with Graph Information. to appear in the 29th ACM International Conference on Information and Knowledge Management. (***CIKM 2020***). [Preprint Version](http://www.thuir.cn/group/~YQLiu/publications/CIKM2020Li.pdf). [Code](https://github.com/lixsh6/GraRetrieval- CIKM2020)
 * ***Xiangsheng Li***, Yiqun Liu, Jiaxin Mao. Understanding the Role of Human-Inspired Heuristics for Retrieval Models. Frontiers of Computer Science. (***Invited paper***) [Preprint Version](http://www.thuir.cn/group/~YQLiu/publications/FCS2020Li.pdf)
 * ***Xiangsheng Li***, Jiaxin Mao, Chao Wang, Yiqun Liu, Min Zhang and Shaoping Ma. Teach Machine How to Read: Reading Behavior Inspired Relevance Estimation. The 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval.  (***SIGIR 2019***). [Preprint Version](http://www.thuir.cn/group/~YQLiu/publications/SIGIR2019Li.pdf)
