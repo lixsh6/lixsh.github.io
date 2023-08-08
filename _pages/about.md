@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research engineer at Tencent Inc. Before that, I received my Ph.D. degree from Tsinghua University in 2022 and B.Eng. degree from [School of Data and Computer Science](http://sdcs.sysu.edu.cn), Sun Yat-Sen University in 2017. I spent a unforgettable time in [THUIR group](http://www.thuir.cn/) and worked with my superviser Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/) in the field of user behavior analysis and search ranking model.
+I am a research engineer at Tencent Inc. Before that, I received my Ph.D. degree from  [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn), Tsinghua University in 2022 and B.Eng. degree from [School of Data and Computer Science](http://sdcs.sysu.edu.cn), Sun Yat-Sen University in 2017. I spent a unforgettable time in [THUIR group](http://www.thuir.cn/) and worked with my superviser Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/) in the field of user behavior analysis and search ranking model.
 
 My interest lies in search ranking and large language model, including employing LLMs for various search tasks, building unified embedding model by LLMs and hallucination detection in LLMs. 
 
