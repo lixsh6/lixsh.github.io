@@ -39,6 +39,7 @@ Publications & Manuscripts
 Honors & Awards
 ======
 * Mar 2023, ***First prize*** at WSDM Cup: Unbiased Learning for Web Search and Pre-training for Web Search. [Details](https://mp.weixin.qq.com/s/v9pno270bHQiR5sZ3Llwug).
+* Jun 2022, Excellent graduated student in Department of Computer Science and Technology, Tsinghua University.
 * Nov 2019, ***National Post-graduate Scholarship***, Department of Computer Science and Technology, Tsinghua university.
 * Nov 2018, ***Best Paper Award*** in AIRS 2018.
 * Jun 2017, ***Outstanding Graduates Award***, Sun Yat-Sen University.
